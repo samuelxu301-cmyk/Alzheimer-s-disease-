@@ -19,20 +19,29 @@ Understand how Artificial Intelligence (AI) is being used in diagnosing and rese
 ## Skils Used
 
 -Literature Review
+
 -Critical Analysis
+
 -Scientific communication
 
 ## Repository Structure
 
 papers/
+
 notes/
+
 slides/
+
 video/
+
 reflection/
 
 ## Final Outputs
 
 -Research Review
+
 -Powerpoint Slides
+
 -Video
+
 -Reflection
