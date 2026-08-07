@@ -1,40 +1,37 @@
 # AI in Alzheimer-s-disease-
 
-## Project Goal
+## Project Overview
 
-Understand how Artificial Intelligence (AI) is being used in diagnosing and research of Alzheimer's disease (AD)
+This project explores the applications and values of Artificial Intelligence in studying Alzheimer's disease 
 
-## Papers Reviewed
+## Research Question
 
--https://www.sciencedirect.com/science/article/abs/pii/S1568163724003155
+How is Artificial Intelligence benefiting the diagnosing and research of Alzheimer's disease 
 
--https://pmc.ncbi.nlm.nih.gov/articles/PMC10680162/
-
--https://pmc.ncbi.nlm.nih.gov/articles/PMC12387124/
-
--https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2846719
-
--https://www.cell.com/heliyon/fulltext/S2405-8440(24)05406-9
-
-## Skils Used
+## Skils Practiced
 
 -Literature Review
 
 -Critical Analysis
 
--Scientific communication
+-Scientific Communication
+
+-Data Visualization
+
 
 ## Repository Structure
 
--papers list
+-Papers list & Notes
 
--notes
+-Research Review
 
--slides
+-Presentation Slides
 
--video
+-Educational Video
 
--reflection
+-Python Code
+
+-Reflection
 
 ## Final Outputs
 
