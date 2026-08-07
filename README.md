@@ -26,15 +26,15 @@ Understand how Artificial Intelligence (AI) is being used in diagnosing and rese
 
 ## Repository Structure
 
-papers/
+-papers list
 
-notes/
+-notes
 
-slides/
+-slides
 
-video/
+-video
 
-reflection/
+-reflection
 
 ## Final Outputs
 
