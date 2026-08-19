@@ -88,11 +88,11 @@ Year: 2024
 ---
 ## Paper 4
 
-Title:
+Title: Machine Learning–Based Sleep Electroencephalographic Brain Age Index and Dementia Risk
 
-Authors:
+Authors: Sun et al.
 
-Year:
+Year: 2026
 
 ### Research Question
 
