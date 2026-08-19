@@ -30,11 +30,11 @@ Year: 2025
 
 ## Paper 2
 
-Title:
+Title: AI-driven innovations in Alzheimer's disease: Integrating early diagnosis, personalized treatment, and prognostic modelling
 
-Authors:
+Authors: Kale et al.
 
-Year:
+Year: 2024
 
 ### Research Question
 
