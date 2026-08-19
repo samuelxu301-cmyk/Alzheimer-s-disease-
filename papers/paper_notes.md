@@ -59,11 +59,11 @@ Year: 2024
 ---
 ## Paper 3
 
-Title:
+Title: AI-based tool for early detection of Alzheimer's disease
 
-Authors:
+Authors: Rehman et al.
 
-Year:
+Year: 2024
 
 ### Research Question
 
