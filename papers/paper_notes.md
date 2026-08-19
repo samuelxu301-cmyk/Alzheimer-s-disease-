@@ -1,10 +1,10 @@
 ## Paper 1
 
-Title:
+Title: Artificial Intelligence in Alzheimer’s Disease Diagnosis and Prognosis Using PET-MRI: A Narrative Review of High-Impact Literature Post-Tauvid Approval
 
-Authors:
+Authors: Christodoulou et al.
 
-Year:
+Year: 2025
 
 ### Research Question
 
