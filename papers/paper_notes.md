@@ -1,4 +1,4 @@
-# Paper 1
+## Paper 1
 
 Title:
 
@@ -6,7 +6,7 @@ Authors:
 
 Year:
 
-## Research Question
+### Research Question
 
 ...
 
