@@ -117,11 +117,11 @@ Year: 2026
 ---
 ## Paper 5
 
-Title:
+Title: Artificial intelligence technology in Alzheimer's disease research
 
-Authors:
+Authors: Zhang et al.
 
-Year:
+Year: 2023
 
 ### Research Question
 
